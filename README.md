@@ -14,6 +14,7 @@ Key Insight
 The analysis highlights shifting audience preferences, showing how certain genres rise or decline in popularity over the years.
 
 Tools
+
 Python
 pandas
 matplotlib
