@@ -15,6 +15,6 @@ The analysis highlights shifting audience preferences, showing how certain genre
 
 Tools
 
-Python
-pandas
+Python,
+Pandas,
 matplotlib
