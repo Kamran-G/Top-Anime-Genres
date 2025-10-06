@@ -1,20 +1,20 @@
-Overview
+Situation:
+Analyzed a dataset of popular anime titles to understand trends in genre popularity from 2011 to 2024.
 
-This project analyzes trends in popular anime genres released between 2011 and 2024. Using Python, pandas, and matplotlib, the data was cleaned, aggregated, and visualized to identify how the popularity of different genres has evolved over time.
+Task:
+Determine how audience preferences for different anime genres have evolved over time.
 
-Process
+Action:
 
-Loaded and cleaned data from popular_anime.csv, converting comma-separated genres into lists.
-Extracted release years from the aired_from column.
-Grouped the dataset by year and genre to determine the top three genres for each year.
-Created a line chart to visualize yearly trends in genre frequency.
+Imported and cleaned the popular_anime.csv dataset.
 
-Key Insight
+Converted comma-separated genre strings into lists and extracted release years from the aired_from column.
 
-The analysis highlights shifting audience preferences, showing how certain genres rise or decline in popularity over the years.
+Grouped data by year and genre to identify the top three genres for each year.
 
-Tools
+Created a line chart using Python, pandas, and matplotlib to visualize yearly trends in genre frequency.
 
-Python,
-Pandas,
-matplotlib
+Result:
+Identified shifts in audience preferences, highlighting genres that increased or decreased in popularity over time, providing insights for content analysis and industry trends.
+
+Tools: Python, pandas, matplotlib
